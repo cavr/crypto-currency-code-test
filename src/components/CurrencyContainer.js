@@ -45,7 +45,7 @@ class CurrencyContainer extends Component {
 }
 
 CurrencyContainer.defaultProps = {
-  interval: 5000,
+  interval: 30000,
   defaultColor: 'white'
 };
 
